@@ -5,8 +5,6 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App">
-      <Header title="sang dep chai" />
-      <Footer />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
